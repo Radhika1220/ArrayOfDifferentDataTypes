@@ -20,13 +20,13 @@ namespace ArrayOfDifferentDataTypes
             switch (Console.ReadLine())
             {
                 case "1":
-                    ArrayClass.ToPrintIntArray(intArray);
+                  new ArrayClass<int>(intArray).ToPrint();
                     break;
                 case "2":
-                    ArrayClass.ToPrintFloatArray(floatArray);
+                    new ArrayClass<float>(floatArray).ToPrint();
                     break;
                 case "3":
-                    ArrayClass.ToPrintCharArray(charArray);
+                    new ArrayClass<char>(charArray).ToPrint();
                     break;
                 default:
                     Console.WriteLine("Enter a valid option!!!");

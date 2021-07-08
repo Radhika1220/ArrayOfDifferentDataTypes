@@ -6,34 +6,21 @@ using System.Threading.Tasks;
 
 namespace ArrayOfDifferentDataTypes
 {
-    class ArrayClass
+   public  class ArrayClass<T>
+
     {
         //To print the int array
-        public static void ToPrintIntArray(int[] intArray)
+        private T[] inputArray;
+       public ArrayClass(T[] inputArray)
         {
-            foreach(var ele in intArray)
-            {
-                Console.Write(ele + " ");
-            }
-          
+            this.inputArray = inputArray;
         }
-        //To print float array
-        public static void ToPrintFloatArray(float[] floatArray)
+        public void ToPrint()
         {
-            foreach (var ele in floatArray)
+            foreach(var ele in inputArray)
             {
-                Console.Write(ele + " ");
+                Console.Write(ele + " " );
             }
-          
-        }
-        //To print char array
-        public static void ToPrintCharArray(char[] charArray)
-        {
-            foreach (var ele in charArray)
-            {
-                Console.Write(ele + " ");
-            }
-
         }
     }
 }
