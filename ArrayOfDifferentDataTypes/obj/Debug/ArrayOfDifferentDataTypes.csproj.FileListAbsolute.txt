@@ -1,7 +1,0 @@
-C:\Users\Radhika\source\repos\ArrayOfDifferentDataTypes\ArrayOfDifferentDataTypes\bin\Debug\ArrayOfDifferentDataTypes.exe.config
-C:\Users\Radhika\source\repos\ArrayOfDifferentDataTypes\ArrayOfDifferentDataTypes\bin\Debug\ArrayOfDifferentDataTypes.exe
-C:\Users\Radhika\source\repos\ArrayOfDifferentDataTypes\ArrayOfDifferentDataTypes\bin\Debug\ArrayOfDifferentDataTypes.pdb
-C:\Users\Radhika\source\repos\ArrayOfDifferentDataTypes\ArrayOfDifferentDataTypes\obj\Debug\ArrayOfDifferentDataTypes.csproj.AssemblyReference.cache
-C:\Users\Radhika\source\repos\ArrayOfDifferentDataTypes\ArrayOfDifferentDataTypes\obj\Debug\ArrayOfDifferentDataTypes.csproj.CoreCompileInputs.cache
-C:\Users\Radhika\source\repos\ArrayOfDifferentDataTypes\ArrayOfDifferentDataTypes\obj\Debug\ArrayOfDifferentDataTypes.exe
-C:\Users\Radhika\source\repos\ArrayOfDifferentDataTypes\ArrayOfDifferentDataTypes\obj\Debug\ArrayOfDifferentDataTypes.pdb
